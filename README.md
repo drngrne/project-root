@@ -56,7 +56,7 @@ project-root/
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone https://github.com/drngrne/project-root.git
 cd project-root
 ```
 
